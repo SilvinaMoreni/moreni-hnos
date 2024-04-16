@@ -7,10 +7,12 @@ function Nosotros () {
 
         
         <div className="tarjeta">
+            
                 <img src="img/servicios.JPG"  alt="moreni" />
                 <div class="overlay">
                     <div class="text"> SERVICIOS Y CERTIFICACIONES</div>
                 </div>
+                
         </div>
 
         <div className="tarjeta">
