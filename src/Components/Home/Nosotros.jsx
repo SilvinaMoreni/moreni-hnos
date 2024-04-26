@@ -6,7 +6,8 @@ function Nosotros (){
 
         <div className="nosotros-container">
 
-            <img src="img/nosotros.jpg" alt="Imagen de la empresa" width={500} height={500}/>
+            
+
 
             <div className="intro">
                 <h4>SOBRE NUESTRA EMPRESA</h4> 

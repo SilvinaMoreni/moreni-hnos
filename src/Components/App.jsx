@@ -1,21 +1,13 @@
-import Navbar from './Navbar';
-import Footer from './Footer';
-import Servprod from './serv-prod';
-import IntroVideo from './IntroVideo';
-import Nosotros from './Nosotros.jsx';  
-import Certificaciones from './Certificaciones.jsx';
+import Home from './Home/Home.jsx';
+
 
 function App() {
   return ( 
     <div className="App">
 
       
-      <Navbar/>
-      <IntroVideo/>
-      <Nosotros/>
-      <Servprod/>
-      <Certificaciones/>
-      <Footer/>
+      <Home/>
+      
     </div>
     );
 }
